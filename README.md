@@ -43,9 +43,6 @@ O layout do Travelgram apresenta:
 
 ![image](https://github.com/user-attachments/assets/c4a41b4e-bd12-40eb-98de-a21ef571a9ca)
 
-
-> *Adicione a imagem do projeto com o nome "preview.png" na raiz do repositório.*
-
 ## 🛠️ Aprendizados
 
 Este projeto foi uma excelente oportunidade para:
